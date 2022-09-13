@@ -1,6 +1,7 @@
 baseurl = "https://helm.sh/"
 languageCode = "en-us"
-theme = "helm"
+#theme = "helm"
+theme = "docsy"
 
 contentDir = "content"
 publishdir = "app"
